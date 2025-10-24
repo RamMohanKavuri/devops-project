@@ -1,1 +1,2 @@
-# Example Dockerfile content
+FROM ubuntu:latest
+RUN echo 'Hello Devops'
