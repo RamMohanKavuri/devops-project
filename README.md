@@ -1,15 +1,9 @@
-# DevOps Project
+## Project Features
 
-## Objective
-Manage a DevOps project using Git best practices.
+- Jenkins setup documentation (docs/jenkins.md)
+- Dockerfile for base image
+- CI/CD pipeline scripts
+- All features merged via dev branch
+- Release version: v1.0
 
-## Project Structure
-- Dockerfile
-- Jenkinsfile
-- scripts/deploy.sh
-
-## Branching Strategy
-- main: stable branch
-- dev: development branch
-- feature/*: new features
 
