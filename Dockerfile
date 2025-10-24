@@ -1,3 +1,2 @@
 FROM ubuntu:latest
-RUN echo 'Hello DevOps'
-
+RUN echo 'Hello Devops'
